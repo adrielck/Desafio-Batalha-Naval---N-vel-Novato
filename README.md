@@ -21,7 +21,6 @@ No nível Novato do desafio, o foco está em:
 
 - Linguagem: C
 - Compilador recomendado: GCC
-- IDEs sugeridas: Visual Studio Code, Dev-C++, Code::Blocks
 
 ## ▶️ Como executar
 
